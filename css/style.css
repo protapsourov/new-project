@@ -1,0 +1,57 @@
+h3{
+  font-size: 30px;
+  color:red;
+  background-color: blue;
+  border:solid black;
+}
+.video{
+  width:650px ;
+  height:400px;
+}
+.map{
+  width:650px ;
+  height:400px ;
+  style="border:0;
+}
+.header1{
+ height: 20px;
+ background-color:yellow;
+}
+.header{
+  min-height: 20px;
+  background-color: green;
+}
+.wrapper{
+ overflow: hidden;
+}
+.contact{
+ float:left;
+ width:65%;
+ min-height:100px;
+ background-color:#00ffff;
+
+}
+.blog{
+float:right;
+ width:35%;
+ min-height:100px;
+ background-color:#00bfff;
+}
+.single{
+  float:left;
+  width:33.30%;
+  min-height:100px;
+}
+.tomato{
+ background-color:#0000ff;
+}
+.olive{
+ background-color:#0080ff;
+}
+.cyan{
+ background-color:tomato;
+}
+.footer{
+  min-height:100px;
+  background-color:#1a0d00;
+}
